@@ -6,5 +6,5 @@ I am a Full Stack Developer. I studied and finished the carrer of developer in t
 Skills: REACT / REDUX / JS / HTML / CSS / BOOTSTRAP / NODE / EXPRESS / PHP / C# / C,C++ / SQL / MongoDB / PostgreSQL
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RomaGarcia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Roman Garcia/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RomaGarcia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/romangarcia/)  
 
