@@ -1,7 +1,7 @@
 ### Hi there 👋, Roman Garcia
 ####  Full Stack Developer
 Hi, my name is Roman Gracia, I am 21 years old, i am living in Argentina, Buesnos Aires.
-I am a Full Stack Developer. I studied and finished the carrer of Software Developer in the UTN and currently i am studying in the Henry Bootcamp 
+I am a Full Stack Developer. I studied and finished the carrer of Software Developer in the UTN and currently i am studying in the Henry Bootcamp (+800hs)
 
 Skills: REACT / REDUX / JS / HTML / CSS / BOOTSTRAP / NODE / EXPRESS / PHP / C# / C,C++ / SQL / MongoDB / PostgreSQL / GIT
 
