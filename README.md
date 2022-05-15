@@ -14,5 +14,6 @@ Skills: REACT / REDUX / JS / HTML / CSS / BOOTSTRAP / NODE / EXPRESS / PHP / C# 
 <p align="left">
  <a href="https://www.linkedin.com/in/roman-garcia-6a3b97236/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
  <a href="mailto:roman.g@hotmail.com.ar"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'><a/>
+ <a href="https://github.com/RomaGarcia"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
 </p>
 
